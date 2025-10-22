@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, Eu sou o Vitor Silva 👋
 
-<!--
-**vitorh-silva/vitorh-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu espaço digital! Eu sou um estudante de Engenharia de Software apaixonado por IA, Open Source, criação de interfaces intuitivas.
 
-Here are some ideas to get you started:
+Atualmente, meu foco é adquirir o máximo de conhecimento em linguagens de programação, boa resolução de lógica e uma ótima visão sobre gestão de negócios. Acredito que a tecnologia pode transformar o mundo todo e estou sempre em busca de projetos que causem impacto!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Conquistas e Jornada 🎓
+
+* **Experiência Profissional:** Auxiliar Administrativo na MG Dublagens LTDA. - Atuei por mais de 7 anos na aréa de negócios, gestão de clientes e organização operacional.
+* **Formação:** Graduando em Engenharia de Software na UNIFIL.
+
+---
+
+## Vamos nos Conectar! 💬
+
+> Estou sempre aberto(a) a novas oportunidades de colaboração, discussões sobre tecnologia ou apenas para um café virtual!
+
+| Canal | Link |
+| :---: | :--- |
+| **Email Profissional** | vitorhugo.silva@edu.unifil.br|
